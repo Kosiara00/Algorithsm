@@ -12,7 +12,7 @@ int main() {
 	srand(time(NULL));
 for (int i = 0; i < ile; i++)
 	{
-		t[i] = (rand() % 100) + 1;
+		t[i] = (rand() % 2147483647) + 1; //Maximum value for int
 		cout << t[i] << endl;
 	}
   
