@@ -1,2 +1,2 @@
 # Algorithsm
-Popular algorithms
+Reopsitory of mine IT studies homeworks.
